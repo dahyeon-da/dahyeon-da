@@ -37,13 +37,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
+---------
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon-da&hide=contribs,prs&show_icons=true&theme=shades-of-purple" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon-da&hide=contribs,prs&show_icons=true&theme=shades-of-purple" width=56% height=30%/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon-da&layout=donut&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon-da&layout=donut&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% height=30%/>
   </a>  
 </div>
 
