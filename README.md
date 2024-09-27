@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon-da&theme=shades-of-purple" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon-da&hide=contribs,prs&show_icons=true&theme=shades-of-purple" width=56% />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon-da&layout=donut&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
