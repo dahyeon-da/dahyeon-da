@@ -36,4 +36,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon-da&theme=shades-of-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon-da&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
