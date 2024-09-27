@@ -36,5 +36,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F2CC0F,50:F2D750,100:F2DE79&height=100&section=footer)
+[![dahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon-da?count_private=true)](https://github.com/dahyeon-da/github-readme-stats)
+
 
