@@ -36,6 +36,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon-da?count_private=true)](https://github.com/dahyeon-da/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon-da&count_private=true)
 
 
