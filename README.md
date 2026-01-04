@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header" />
 
-<div align=center><h1>📖 Tistory 📖</h1></div>
+<div align=center><h1>📖 Tistory</h1></div>
 <div align=center>
   <a href="https://ldhyeon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 <br>
 
-<div align=center><h1>📚 STACKS 📚</h1></div>
+<div align=center><h1>📋 Languages</h1></div>
 
 
 
@@ -32,21 +32,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
----------
+<div align=center><h1>💾 Databases </h1></div>
 
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dahyeon-da&show_icons=true&theme=Gradient&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon-da&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
-  </a>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">   
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<div align=center><h1>🎨 Design</h1></div>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=MySQL&logoColor=white">   
+</div>
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" />
